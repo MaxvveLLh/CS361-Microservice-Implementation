@@ -15,6 +15,6 @@ to install them. You will also need to install Node.js. You can download the cor
 
 Example: http://localhost:3000/dog
 
--The service will return you a JSON style string in the response. You can prase it, and use the url for your program.
+-The service will return you a JSON style string in the response. You need to catch the response, prase the data as jsonstring, and use the url for your program.
 
 Example return: {"imageUrl":"https://www.petmd.com/sites/default/files/2021-01/cute-small-dog-lying-on-floor-beside-bowl-of-food.jpg"}
